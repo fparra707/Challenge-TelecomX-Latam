@@ -59,6 +59,6 @@ Se trabaja sobre un conjunto de datos proporcionado en la URL:
 - Plotly
 
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
 Proyecto desarrollado en el marco del Challenge de Data Science (TelecomX) de Alura LATAM.
