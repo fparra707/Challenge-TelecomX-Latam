@@ -2,7 +2,7 @@
 
 Este proyecto analiza los factores que influyen en el retiro (churn) de clientes en una empresa de telecomunicaciones, utilizando visualizaciones y estadísticas descriptivas. 
 Se trabaja sobre un conjunto de datos proporcionado en la URL:
-url ='https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/refs/heads/main/TelecomX_Data.json'
+- url ='https://raw.githubusercontent.com/ingridcristh/challenge2-data-science-LATAM/refs/heads/main/TelecomX_Data.json'
 
 
 ## 📁 Contenido
